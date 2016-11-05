@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">MyCalculator</string>
+    <string name="action_help">帮助</string>
+    <string name="button_exit">退出</string>
+</resources>
